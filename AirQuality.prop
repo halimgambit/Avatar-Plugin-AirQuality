@@ -1,0 +1,10 @@
+{
+	"modules": { 
+		"AirQuality": {
+			"version": "1.0",
+			"name": "air_quality",
+			"rules": ["outdoor * air * quality","outdoor air quality","what is the external air quality","give me the external air quality"]
+		}
+	}
+}
+			
